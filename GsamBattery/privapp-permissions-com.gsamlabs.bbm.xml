@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="com.gsamlabs.bbm">
+        <permission name="android.permission.BATTERY_STATS"/>
+    </privapp-permissions>
+</permissions>
